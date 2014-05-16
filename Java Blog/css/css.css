@@ -1,0 +1,76 @@
+body
+{
+	width:900px;
+	height:100%;
+	background-color:#cccccc;
+	margin: 0 auto;
+	background-image:url(images\tile.gif);
+}
+div#page
+{
+	width:100%;
+	height:100%;
+	background-color:#db9356;
+	margin: 0 auto;
+
+}
+div#header
+{
+	width:500px;
+	height:115px;
+	background-color:FFFFFF;
+	float:left;
+	margin: 0 auto;
+}
+div#header2
+{
+	width:400px;
+	height:115px;
+	background-color:FFFFFF;
+	float:left;
+	margin: 0 auto;
+}
+div#nav
+{
+	width:898px;
+	height:78px;
+	background-color:#7e6c54;
+	float:left;
+	text-align:center;
+	margin: 0 auto;
+    -moz-border-radius-bottomleft: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+	 -moz-border-radius-bottomright: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    border: 1px solid;
+}
+div#content
+{
+	width:79.95%;
+	height:89%;
+	background-color:0000F2;
+	float:right;
+	margin: 0 auto;
+}
+div#home
+{
+	float:right-top;
+}
+div#blog
+{
+	text-align:left;
+	border:solid;
+	border-width:2px;
+	width:885px;
+	background-color:FFFFFF;
+	margin: 0 auto;
+}
+div#title
+{
+	width:500px;
+	border:solid;
+	border-width:2px;
+	background-color:FFFFFF;
+	margin: 0 auto;
+	text-align:center;
+}
